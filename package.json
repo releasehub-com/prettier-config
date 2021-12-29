@@ -1,0 +1,9 @@
+{
+  "name": "@releasehub-com/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for Release",
+  "main": "index.json",
+  "repository": "git@github.com:releasehub-com/prettier-config.git",
+  "author": "Dave Willett <dwillett@releasehub.com>",
+  "license": "MIT"
+}
