@@ -1,0 +1,9 @@
+# Match overlap with our prettier-config
+Layout/LineLength:
+  Max: 110
+
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
+
+Style/StringLiteralsInInterpolation:
+  EnforcedStyle: double_quotes
