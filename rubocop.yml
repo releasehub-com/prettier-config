@@ -1,3 +1,7 @@
+# By default disable all NewCops
+AllCops:
+  NewCops: disable
+
 # Match overlap with our prettier-config
 Layout/LineLength:
   Max: 110
