@@ -3,6 +3,5 @@
   "arrowParens": "avoid",
   "singleQuote": false,
   "trailingComma": "es5",
-  "printWidth": 110,
-  "rubySingleQuote": false
+  "printWidth": 110
 }
